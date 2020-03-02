@@ -49,6 +49,13 @@ A step by step series of examples that tell you how to get a development env run
 
 ```
 
+## Notes / Things you should to know
+
+```
+# TODO ...
+
+```
+
 
 ## Contributing
 
@@ -69,18 +76,25 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 * etc
 
 
+## Recommendations / How to learn
+
+At this moments no need to buy books, courses to learn matplotlib, enough to visit the official website of matplotlib and make the whole tutorial and that's it 😀 if you want more you can learn from me repo !!!
+
 ## Resources
 
-#### Books
+#### 1. Books
++ [[1.1. Python Data Science Handbook] ](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/04.00-Introduction-To-Matplotlib.ipynb)
 
+#### 2. Websites
++ [[2.1.] Matplotlib Official documentation ](https://matplotlib.org/tutorials/index.html)
 
-#### Websites
-+ [[1] github readme template 1 ](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
-+ [[2] github readme template 2 ](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
-+ [[3] Badger | shields.io ](https://shields.io/)
++ [[2.2.] github readme template 1 ](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
++ [[2.3.] github readme template 2 ](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
++ [[2.4.] Badger | shields.io ](https://shields.io/)
 
-#### Youtube
+#### 3. Youtube
++ [[3.0.] Owner of the chanel | Chanel name | Tutorial name ](#)
++ [[3.1.] Giles McMullen-Klein | Python Programmer](https://www.youtube.com/watch?v=6rKe2IEIu8c)
 
-
-#### Papers
+#### 4. Papers
 
