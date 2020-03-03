@@ -53,7 +53,7 @@ A step by step series of examples that tell you how to get a development env run
 
 <figure>
   <figcaption>Parts of a Figure <a href="#Resources">[2.5.]</a></figcaption>
-  <img src="imgs/1.png" alt="1.png" title="Optional title" />
+  <img src="imgs/1.png" alt="1.png" title="Parts of a Figure" />
 </figure>
 
 
@@ -94,7 +94,7 @@ At this moments no need to buy books, courses to learn matplotlib, enough to vis
 + [[2.5.] Matplotlib Usage Guide](https://matplotlib.org/tutorials/introductory/usage.html#sphx-glr-tutorials-introductory-usage-py)
 #### 3. Youtube
 + [[3.0.] Owner of the chanel | Chanel name | Tutorial name ](#)
-+ [[3.1.] Giles McMullen-Klein | Python Programmer](https://www.youtube.com/watch?v=6rKe2IEIu8c)
++ [[3.1.] Giles McMullen-Klein | Python Programmer | Watch this if you want to LEARN MATPLOTLIB for PYTHON!](https://www.youtube.com/watch?v=6rKe2IEIu8c)
 
 #### 4. Papers
 
