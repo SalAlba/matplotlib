@@ -78,7 +78,9 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Recommendations / How to learn
 
-At this moments no need to buy books, courses to learn matplotlib, enough to visit the official website of matplotlib and make the whole tutorial and that's it 😀 if you want more you can learn from me repo !!!
+At this moments no need to buy books or courses to learn matplotlib, enough to visit the official website of matplotlib and make the whole tutorial and that's it 😀 if you want more you can learn from me repo !!!
+
+1. [Python Data Science Handbook ⭐⭐⭐ ](https://jakevdp.github.io/PythonDataScienceHandbook/)
 
 ## Resources
 
