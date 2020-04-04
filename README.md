@@ -42,18 +42,34 @@ A step by step series of examples that tell you how to get a development env run
     $ pip install -r requirements.txt
 ```
 
-## Documentation
-
-```
-# TODO ...
-
-```
 
 ## Notes / Things you should to know
 
 <figure>
-  <figcaption>Parts of a Figure <a href="#Resources">[2.5.]</a></figcaption>
-  <img src="imgs/1.png" alt="1.png" title="Parts of a Figure" />
+  <figcaption>(Fig. 1.) Parts of a Figure <a href="#Resources">[2.5.]</a></figcaption>
+  <img src="./assets/imgs/1.png" alt="1.png" title="Parts of a Figure" />
+</figure>
+
+
+
+**Data wrangling** is the process of transforming raw data into a suitable representation for various tasks. It is the discipline of augmenting, cleaning, filtering, standardizing, and enriching data in a way that allows it to be used in a downstream task, which in our case is data visualization.[[2.6]](#Resources)
+<figure>
+  <figcaption>(Fig. 2.) Data wrangling process to measure employee engagement <a href="#Resources">[2.6.]</a></figcaption>
+  <img src="./assets/imgs/B15779_01_02.png" info="PacktWorkshops/The-Data-Visualization-Workshop/introduction-to-data-visualization" alt="B15779_01_02.png" title="Data wrangling process" />
+</figure>
+
+### Types of Data
+
+
+| Data type | Best suited measures of central tendency for different types of data |
+|-----------|----------------------------------------------------------------------|
+| Nominal   | Mode                                                                 |
+| Ordinal   | Median                                                               |
+| Numerical | Mode/Median                                                          |
+
+<figure>
+  <figcaption>(Fig. 3.) Classification of types of data <a href="#Resources">[2.6.]</a></figcaption>
+  <img src="./assets/imgs/B15779_01_07.png" info="PacktWorkshops/The-Data-Visualization-Workshop/introduction-to-data-visualization" alt="B15779_01_07.png" title="Classification of types of data" />
 </figure>
 
 
@@ -81,6 +97,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 At this moments no need to buy books or courses to learn matplotlib, enough to visit the official website of matplotlib and make the whole tutorial and that's it 😀 if you want more you can learn from me repo !!!
 
 1. [Python Data Science Handbook 🔥🔥🔥 ](https://jakevdp.github.io/PythonDataScienceHandbook/)
+2. [PacktWorkshops/The-Data-Visualization-Workshop](https://github.com/PacktWorkshops/The-Data-Visualization-Workshop)
 
 ## Resources
 
@@ -94,6 +111,8 @@ At this moments no need to buy books or courses to learn matplotlib, enough to v
 + [[2.3.] github readme template 2 ](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
 + [[2.4.] Badger | shields.io ](https://shields.io/)
 + [[2.5.] Matplotlib Usage Guide](https://matplotlib.org/tutorials/introductory/usage.html#sphx-glr-tutorials-introductory-usage-py)
++ [[2.6.] PacktWorkshops/The-Data-Visualization-Workshop](https://github.com/PacktWorkshops/The-Data-Visualization-Workshop)
+
 #### 3. Youtube
 + [[3.0.] Owner of the chanel | Chanel name | Tutorial name ](#)
 + [[3.1.] Giles McMullen-Klein | Python Programmer | Watch this if you want to LEARN MATPLOTLIB for PYTHON!](https://www.youtube.com/watch?v=6rKe2IEIu8c)
