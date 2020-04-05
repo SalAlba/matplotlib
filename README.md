@@ -73,6 +73,65 @@ A step by step series of examples that tell you how to get a development env run
 </figure>
 
 
+### Different Plots
+
+#### Scatter Plot (Relation plots)
+
+TODO ... What/Use/Dont's/Design Practices
+
+#### Correlogram  (Relation plots)
+
+TODO ... What/Use/Dont's/Design Practices
+
+#### Heatmap (Relation plots)
+
+TODO ... What/Use/Dont's/Design Practices
+
+
+#### Line Chart
+
+TODO ... What/Use/Dont's/Design Practices
+
+
+#### Bar Chart
+
+TODO ... What/Use/Dont's/Design Practices
+
+
+**Don'ts of Bar Charts**
+
++ Don't confuse vertical bar charts with histograms. Bar charts compare different variables or categories, while histograms show the distribution for a single variable.
+
++ Another common mistake is to use bar charts to show central tendencies among groups or categories. Use box plots or violin plots to show statistical measures or distributions in these cases.
+
+
+
+
+#### Radar Chart
+
+TODO ... What/Use/Dont's/Design Practices
+
+
+#### Pie Chart (Composition Plots)
+
+TODO ... What/Use/Dont's/Design Practices
+
+
+#### Variants: Donut Chart (Composition Plots)
+
+TODO ... What/Use/Dont's/Design Practices
+
+
+#### Stacked Bar Chart (Composition Plots)
+
+TODO ... What/Use/Dont's/Design Practices
+
+
+#### Stacked Area Chart (Composition Plots)
+
+TODO ... What/Use/Dont's/Design Practices
+
+
 ## Contributing
 
 Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
