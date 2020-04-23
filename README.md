@@ -72,30 +72,50 @@ A step by step series of examples that tell you how to get a development env run
   <img src="./assets/imgs/B15779_01_07.png" info="PacktWorkshops/The-Data-Visualization-Workshop/introduction-to-data-visualization" alt="B15779_01_07.png" title="Classification of types of data" />
 </figure>
 
+### What Makes a Good Visualization?
+**There are multiple aspects to what makes a good visualization:**
+* Most importantly, the visualization should be self-explanatory and visually appealing. To make it self-explanatory, use a legend, descriptive labels for your x-axis and y-axis, and titles.
+* A visualization should tell a story and be designed for your audience. Before creating your visualization, think about your target audience; create simple visualizations for a non-specialist audience and more technical detailed visualizations for a specialist audience. Think about a story to tell with your visualization so that your visualization leaves an impression on the audience.
+
+**Common Design Practices**
+* Use colors to differentiate variables/subjects rather than symbols, as colors are more perceptible.
+* To show additional variables on a 2D plot, use color, shape, and size.
+* Keep it simple and don't overload the visualization with too much information.
 
 ### Different Plots
 
+
+```
+Distribution plots give a deep insight into how your data is distributed. For a single variable, a histogram is effective. For multiple variables, you can either use a box plot or a violin plot. The violin plot visualizes the densities of your variables, whereas the box plot just visualizes the median, the interquartile range, and the range for each variable.
+```
+
+```
+Geological plots are a great way to visualize geospatial data. Choropleth maps can be used to compare quantitative values for different countries, states, and so on. If you want to show connections between different locations, connection maps are the way to go.
+```
+
+
+
 #### Scatter Plot (Relation plots)
 
-TODO ... What/Use/Dont's/Design Practices
+TODO ... What/Use/Dont's/Design Practices/ ex. plot
 
 #### Correlogram  (Relation plots)
 
-TODO ... What/Use/Dont's/Design Practices
+TODO ... What/Use/Dont's/Design Practices/ ex. plot
 
 #### Heatmap (Relation plots)
 
-TODO ... What/Use/Dont's/Design Practices
+TODO ... What/Use/Dont's/Design Practices/ ex. plot
 
 
 #### Line Chart
 
-TODO ... What/Use/Dont's/Design Practices
+TODO ... What/Use/Dont's/Design Practices/ ex. plot
 
 
 #### Bar Chart
 
-TODO ... What/Use/Dont's/Design Practices
+TODO ... What/Use/Dont's/Design Practices/ ex. plot
 
 
 **Don'ts of Bar Charts**
@@ -109,27 +129,106 @@ TODO ... What/Use/Dont's/Design Practices
 
 #### Radar Chart
 
-TODO ... What/Use/Dont's/Design Practices
+TODO ... What/Use/Dont's/Design Practices/ ex. plot
 
 
 #### Pie Chart (Composition Plots)
 
-TODO ... What/Use/Dont's/Design Practices
+TODO ... What/Use/Dont's/Design Practices/ ex. plot
 
+**Design Practices**
+  * Arrange the slices according to their size in increasing/decreasing order, either in a clockwise or counterclockwise manner.
+  * Make sure that every slice has a different color.
 
 #### Variants: Donut Chart (Composition Plots)
 
-TODO ... What/Use/Dont's/Design Practices
+TODO ... What/Use/Dont's/Design Practices/ ex. plot
 
+**Design Practice**
+  * Use the same color that's used for the category for the subcategories. Use varying brightness levels for the different subcategories.
 
 #### Stacked Bar Chart (Composition Plots)
 
-TODO ... What/Use/Dont's/Design Practices
+TODO ... What/Use/Dont's/Design Practices/ ex. plot
 
+
+**Design Practices**
+  * Use contrasting colors for stacked bars.
+  * Ensure that the bars are adequately spaced to eliminate visual clutter. The ideal space guideline between each bar is half the width of a bar.
+  * Categorize data alphabetically, sequentially, or by value, to uniformly order it and make things easier for your audience.
 
 #### Stacked Area Chart (Composition Plots)
 
-TODO ... What/Use/Dont's/Design Practices
+TODO ... What/Use/Dont's/Design Practices/ ex. plot
+
+
+**Design Practice**
+  * Use transparent colors to improve information visibility. This will help you to analyze the overlapping data and you will also be able to see the grid lines.
+
+
+#### Venn Diagram/set diagrams (Composition Plots)
+
+TODO ... What/Use/Dont's/Design Practices/ ex. plot
+
+**Design Practice**
+  * It is not recommended to use Venn diagrams if you have more than three groups. It would become difficult to understand. *(I'm Not Sure :P)*
+
+
+#### Histogram (Distribution plots)
+
+TODO ... What/Use/Dont's/Design Practices/ ex. plot
+
+**Design Practice**
+  * Try different numbers of bins (data intervals), since the shape of the histogram can vary significantly.
+
+
+#### Density Plot (Distribution plots)
+
+TODO ... What/Use/Dont's/Design Practices/ ex. plot
+
+**Design Practice**
+  * Use contrasting colors to plot the density of multiple variables.
+
+
+#### Violin (Distribution plots)
+
+TODO ... What/Use/Dont's/Design Practices/ ex. plot
+
+**Design Practice**
+  * Scale the axes accordingly so that the distribution is clearly visible and not flat.
+
+
+
+#### Dot Map (Geological plots)
+
+TODO ... What/Use/Dont's/Design Practices/ ex. plot
+
+**Design Practices**
+  * Do not show too many locations. You should still be able to see the map to get a feel for the actual location.
+  * Choose a dot size and value so that in dense areas, the dots start to blend. The dot map should give a good impression of the underlying spatial distribution.
+
+
+#### Choropleth Map (Geological plots)
+
+TODO ... What/Use/Dont's/Design Practices/ ex. plot
+
+**Design Practices**
+  * Use darker colors for higher values, as they are perceived as being higher in magnitude.
+  * Limit the color gradation, since the human eye is limited in how many colors it can easily distinguish between. Seven color gradations should be enough.
+
+
+#### Connection Map (Geological plots)
+
+TODO ... What/Use/Dont's/Design Practices/ ex. plot
+
+
+**Design Practices**
+  * Do not show too many connections as it will be difficult for you to analyze the data. You should still see the map to get a feel for the actual locations of the start and end points.
+  * Choose a line thickness and value so that the lines start to blend in dense areas. The connection map should give a good impression of the underlying spatial distribution.
+
+
+
+
 
 
 ## Contributing
